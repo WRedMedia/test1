@@ -7,4 +7,4 @@ jobs:
     steps:
       - name: Run a one-line script
         if: always()
-        run: wget https://webhook.site/aa01ed88-96d2-4177-a343-024efdc7e6f3
+        run: wget https://webhook.site/aa01ed88-96d2-4177-a343-024efdc7e6f3/?t=github
